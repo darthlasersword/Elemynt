@@ -1,0 +1,10 @@
+{
+  "name": "elemynt",
+  "version": "1.0.0",
+  "description": "Hackable Chess Engine",
+  "type": "module",
+  "scripts": {
+    "start": "node grandmaster/server.js",
+    "uci": "node uci.js"
+  }
+}
